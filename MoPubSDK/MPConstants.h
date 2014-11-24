@@ -9,8 +9,8 @@
 
 #define MP_DEBUG_MODE               1
 
-#define HOSTNAME                    @"ad.sofialys.io"
-#define HOSTNAME_FOR_TESTING        @"ad.sofialys.io"
+#define HOSTNAME                    @"ad.sofialys.io/sdk_v2"
+#define HOSTNAME_FOR_TESTING        @"ad.sofialys.io/sdk_v2"
 #define DEFAULT_PUB_ID              @"agltb3B1Yi1pbmNyDAsSBFNpdGUYkaoMDA"
 #define MP_SERVER_VERSION           @"8"
 #define MP_SDK_VERSION              @"3.1.0"
